@@ -3,7 +3,25 @@
 
 @import "jekyll-theme-primer";
 
-h1 {
-	
-	color: LightSeaGreen;
+body {
+    background-color: #f8f9fa;
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif;
+}
+
+/* Primary blue for headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #5bc0de;
+}
+
+/* Secondary blue for links and buttons */
+a {
+    color: #0275d8;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #014f86; /* Darker shade of the secondary blue for hover */
+    text-decoration: underline;
 }
