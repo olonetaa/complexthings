@@ -4,19 +4,19 @@
 @import "jekyll-theme-primer";
 
 body {
-    background-color: #f8f9fa;
+    background-color: #f0f0f0;
     color: #333; /* Default text color */
     font-family: Arial, sans-serif;
 }
 
 /* Primary blue for headings */
 h1, h2, h3, h4, h5, h6 {
-    color: #5bc0de;
+    color: #191970;
 }
 
 /* Secondary blue for links and buttons */
 a {
-    color: #0275d8;
+    color: #4169e1;
     text-decoration: none;
     transition: color 0.3s ease;
 }
