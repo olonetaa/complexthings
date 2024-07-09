@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
@@ -21,9 +21,17 @@
       <h1><a href="https://olonetaa.github.io">Complex things</a></h1>
       {% endif %}
 
-      <h4><a href="/index">index</a></h4>
-
       {{ content }}
+
+    <section class="posts">
+      <h3>Recent Posts</h3>
+      {% for post in site.posts limit:5 %}
+        <article class="post">
+          <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+          <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        </article>
+      {% endfor %}
+    </section>
 
  
     </div>
