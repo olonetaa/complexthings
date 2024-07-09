@@ -10,5 +10,6 @@ I'm Lila and I'm a Grade 11 student in the IB program. I'm a biology nerd and I 
 
 
 - [About](/about/)
-- [Posts index](/index/)
+- [Index](/index/)
+- [Ideabasket](/ideabasket/)
 

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: index
 title: Index
 permalink: /index/
 ---
 
-Posts:
 
