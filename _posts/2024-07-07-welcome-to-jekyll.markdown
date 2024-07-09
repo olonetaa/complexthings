@@ -6,6 +6,8 @@ categories: biology rabbitholes
 permalink: /posts/biology_rabbitholes/
 ---
 
+[Posts index](/index/)
+
 $$
 
 \frac{a}{b}
