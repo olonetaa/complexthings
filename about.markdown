@@ -14,6 +14,14 @@ So I'll post my research notes here on this site to share with everyone, because
 
 Sometimes I give up because the papers are too hard, but I'll still put the incomplete notes up here.
 
+### "Complex things"? 
+
+It comes from this quote:
+
+>Biology is the study of complex things that appear to have been designed for a purpose. --Richard Dawkins
+
+(It's not.)
+
 ### Who am I?
 
 I'm 16, and I'm starting the IBDP program in August. I live in Singapore, a tiny, humid tropical island located on the Sunda shelf and not too far from the famous Wallace line. 
