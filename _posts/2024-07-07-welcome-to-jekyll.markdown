@@ -3,7 +3,7 @@ layout: post
 title:  "Why does mtDNA define a species?"
 date:   2024-07-07 22:01:32 +0800
 categories: biology rabbitholes
-permalink: /posts/biology_rabbitholes/
+permalink: /posts/questions/mtDNA-species-definition
 ---
 
 

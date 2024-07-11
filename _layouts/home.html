@@ -24,10 +24,10 @@
       {{ content }}
 
     <section class="posts">
-      <h3>Recent Posts</h3>
+      <h2>Recent Posts</h2>
       {% for post in site.posts limit:5 %}
         <article class="post">
-          <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p class="small-gray-text">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
         </article>
       {% endfor %}
