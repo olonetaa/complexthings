@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Tree of Biology, at least the fields I know"
-date:   2024-07-014 21:08:32 +0800
+date:   2024-07-14 21:08:32 +0800
 categories: biology notes
 permalink: /posts/questions/treeofbiology
 ---
