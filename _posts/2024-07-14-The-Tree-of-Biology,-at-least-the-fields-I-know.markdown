@@ -14,4 +14,4 @@ For example, learning respiration and photosynthesis would have been so much eas
 - Below are either summaries of the field or questions I have or had about the field
 - The blue text is just my thoughts about what to explore further.
 
-![tree of biology](treeofbiology.png "Tree of Biology")
+![tree of bio](treeofbiology.png "Tree of Biology")
