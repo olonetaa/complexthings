@@ -16,4 +16,4 @@ For example, learning respiration and photosynthesis would have been so much eas
 
 I lean towards classifying viruses and even prions as "living things" for simplicity, because from what I've read, they are basically modern versions of life in the beginning - self-replicating molecular chains. On the other hand, I think that the adjective "living" really doesn't matter, because it doesn't change our understanding of viruses and prions, but it makes things easier instead of naming a new group for them. Self-replicating organic molecules, perhaps? That's surely a mouthful.
 
-![treeofbio]({{ '/_images/treeofbiology.png' | relative_url }} "Tree of Biology")
+![treeofbio]('/assets/images/treeofbiology.png')
