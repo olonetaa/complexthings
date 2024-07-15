@@ -27,6 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _
 github_username:  olonetaa
 
+
+include:
+  - assets/images
+  
+
 # Build settings
 theme: jekyll-theme-primer
 plugins:
