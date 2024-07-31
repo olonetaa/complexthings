@@ -16,22 +16,21 @@ Only 1%-2% of the human DNA sequence are genes that encode proteins, in other wo
 
 A reason why they have long been ignored is that ncRNA is rarer in bacteria, which is often the subject for gene studies. **Model species are sometimes unreliable!**
 
-*****
 In Richard Dawkin's book 'The Selfish Gene', he remarked that "junk" DNA, or "selfish DNA", may increase in frequency in the gene pool precisely because it has no effect on the body (p. 57). **This makes them advantageous compared to harmful genes.**
 
 ![]({{'/assets/images/junkDNAdiagram.png'|relative_url}})
 
-This is also part of how some retroviruses work. Endogenous retroviruses are benign proviral sequences in genomes that are vertically inherited over generations. They came from retroviruses, a type of virus that insert their own genomes into the genome of their host's, but do not cause any disease. They are textbook examples of "selfish" DNA, and they have been lurking in our genomes for millions of years.
+This is also part of how some retroviruses work. [Endogenous retroviruses](https://en.wikipedia.org/wiki/Endogenous_retrovirus) are benign proviral sequences in genomes that are vertically inherited over generations. They came from retroviruses, a type of virus that insert their own genomes into the genome of their host's, but do not cause any disease. They are textbook examples of "selfish" DNA, and they have been lurking in our genomes for millions of years.
 
 However, the point here is that at least some of our "junk" DNA do have functions, and not all of them are hitching rides!
-******
-### Noncoding RNA involved in gene regulation:
-#### Long ncRNA (lncRNA)
+
+## Noncoding RNA involved in gene regulation:
+### Long ncRNA (lncRNA)
 - X-inactivation (XIST gene is transcribed and the lncRNA wraps around the inactivated X chromosome)
 - Acting as RNA scaffolds to RNA-binding protein in order to form functional assemblies
 - Could maybe affect chromatin arrangement and affect gene regulation - such RNA could have repeating sequences.
 	- [This](https://www.science.org/doi/abs/10.1126/science.adf3481?af=R) paper by Dr. Sara Zocher showed that there are long-lived lncRNA in mice brain cells that "are required for the maintenance of heterochromatin". Heterochromatin is the condensed and less translated part of the nucleus, so by affecting chromatin structure, ncRNA could affect gene regulation.
-#### MicroRNA
+### MicroRNA
 microRNA: upstream regulators (miRNA)
 - E.g. lin-4 and let-7 in C. elegans → controls development upstream
 - Let-7 has nearly identical genes in vertebrates and other classes of animals, therefore it must have originated before the divergence of these taxa (according to SciAm). **But couldn't they have emerged separately, since miRNAs are so short?**
@@ -44,7 +43,7 @@ microRNA: upstream regulators (miRNA)
 - What do miRNAs control?
 	- Cell fate, cell cycle, apoptosis (important stuff!)
 
-#### Other classes of RNA
+### Other classes of RNA
 
 - PIWI-interacting RNAs (piRNAs): silence transposons in gametes 
 - small nucleolar RNAs: work in nucleoli to modify ribosome RNA
